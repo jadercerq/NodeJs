@@ -12,3 +12,5 @@ const b = delayedSum(4, 4);
 const result = delayedSum(a, b)
 console.log(result);
 console.timeEnd('performance');
+
+// Ao chegar no console.log escreve undefined. Essa forma convencional não funciona por que o javascript não espera
