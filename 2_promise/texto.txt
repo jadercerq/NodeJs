@@ -1,0 +1,1 @@
+Fui no pool de thread e voltei
